@@ -8,7 +8,7 @@
 
 <img src="https://hits.seeyoufarm.com/api/count/incr/badge.svg?url=https%3A%2F%2Fgithub.com%2Ftrung-riddle&count_bg=%237c3aed&title_bg=%230d1117&icon=github&icon_color=%2300d9ff&title=Profile+Views&edge_flat=true" />
 &nbsp;&nbsp;
-<img src="https://img.shields.io/github/followers/trung-riddle?label=Followers&style=flat-square&color=06b6d4&labelColor=0d1117&logo=github&logoColor=white" />
+<img src="https://visitor-badge.laobi.icu/badge?page_id=trung-riddle.trung-riddle&left_color=0d1117&right_color=06b6d4&left_text=Total%20Visits" />
 &nbsp;&nbsp;
 <img src="https://img.shields.io/badge/Status-Open%20to%20Work-00ff88?style=flat-square&labelColor=0d1117&logo=checkmarx&logoColor=00ff88" />
 
@@ -153,11 +153,35 @@ location : Vietnam 🇻🇳
 
 ---
 
-## 📅 Contribution Calendar
+## 🐍 Snake Eating My Contributions
 
 <div align="center">
 
-<img width="90%" src="https://ghchart.rshah.org/7c3aed/trung-riddle" alt="trung-riddle's contribution chart" />
+```
+  ╔══════════════════════════════════════════════════════════════╗
+  ║  🎮  CONTRIBUTION SNAKE  ·  SCORE: ∞  ·  LEVEL: GRINDING  ║
+  ╚══════════════════════════════════════════════════════════════╝
+```
+
+<picture>
+  <source
+    media="(prefers-color-scheme: dark)"
+    srcset="https://raw.githubusercontent.com/trung-riddle/trung-riddle/output/github-contribution-grid-snake-dark.svg"
+  />
+  <source
+    media="(prefers-color-scheme: light)"
+    srcset="https://raw.githubusercontent.com/trung-riddle/trung-riddle/output/github-contribution-grid-snake.svg"
+  />
+  <img
+    alt="🐍 Snake eating my GitHub contributions"
+    src="https://raw.githubusercontent.com/trung-riddle/trung-riddle/output/github-contribution-grid-snake-dark.svg"
+    width="95%"
+  />
+</picture>
+
+```
+  ▶  Auto-updated daily via GitHub Actions  ·  🟣 = my commits
+```
 
 </div>
 
