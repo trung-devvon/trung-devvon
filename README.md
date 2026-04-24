@@ -6,9 +6,9 @@
 
 <br/>
 
-<img src="https://hits.seeyoufarm.com/api/count/incr/badge.svg?url=https%3A%2F%2Fgithub.com%2Ftrung-riddle&count_bg=%237c3aed&title_bg=%230d1117&icon=github&icon_color=%2300d9ff&title=Profile+Views&edge_flat=true" />
+<img src="https://hits.seeyoufarm.com/api/count/incr/badge.svg?url=https%3A%2F%2Fgithub.com%2Ftrung-devvon&count_bg=%237c3aed&title_bg=%230d1117&icon=github&icon_color=%2300d9ff&title=Profile+Views&edge_flat=true" />
 &nbsp;&nbsp;
-<img src="https://visitor-badge.laobi.icu/badge?page_id=trung-riddle.trung-riddle&left_color=0d1117&right_color=06b6d4&left_text=Total%20Visits" />
+<img src="https://visitor-badge.laobi.icu/badge?page_id=trung-devvon.trung-devvon&left_color=0d1117&right_color=06b6d4&left_text=Total%20Visits" />
 &nbsp;&nbsp;
 <img src="https://img.shields.io/badge/Status-Open%20to%20Work-00ff88?style=flat-square&labelColor=0d1117&logo=checkmarx&logoColor=00ff88" />
 
@@ -22,7 +22,7 @@
 
 ```yaml
 name     : Trung
-alias    : trung-riddle
+alias    : trung-devvon
 role     : Web Developer 🌐
 education: FPT Polytechnic (FPoly) ✅ Graduated
 location : Vietnam 🇻🇳
@@ -137,17 +137,17 @@ location : Vietnam 🇻🇳
 
 <div align="center">
 
-<img height="180em" src="https://github-readme-stats.vercel.app/api?username=trung-riddle&show_icons=true&theme=tokyonight&include_all_commits=true&count_private=true&hide_border=true&bg_color=0d1117&title_color=00d9ff&icon_color=bd94f4&text_color=e6edf3" />
+<img height="180em" src="https://github-readme-stats.vercel.app/api?username=trung-devvon&show_icons=true&theme=tokyonight&include_all_commits=true&count_private=true&hide_border=true&bg_color=0d1117&title_color=00d9ff&icon_color=bd94f4&text_color=e6edf3" />
 &nbsp;
-<img height="180em" src="https://github-readme-stats.vercel.app/api/top-langs/?username=trung-riddle&layout=compact&theme=tokyonight&hide_border=true&bg_color=0d1117&title_color=00d9ff&text_color=e6edf3&langs_count=8" />
+<img height="180em" src="https://github-readme-stats.vercel.app/api/top-langs/?username=trung-devvon&layout=compact&theme=tokyonight&hide_border=true&bg_color=0d1117&title_color=00d9ff&text_color=e6edf3&langs_count=8" />
 
 <br/>
 
-<img src="https://github-readme-streak-stats.herokuapp.com/?user=trung-riddle&theme=tokyonight&hide_border=true&background=0d1117&ring=00d9ff&fire=bd94f4&currStreakLabel=00d9ff&sideLabels=e6edf3" />
+<img src="https://github-readme-streak-stats.herokuapp.com/?user=trung-devvon&theme=tokyonight&hide_border=true&background=0d1117&ring=00d9ff&fire=bd94f4&currStreakLabel=00d9ff&sideLabels=e6edf3" />
 
 <br/>
 
-<img width="100%" src="https://github-readme-activity-graph.vercel.app/graph?username=trung-riddle&theme=tokyo-night&bg_color=0d1117&color=00d9ff&line=7c3aed&point=bd94f4&hide_border=true" />
+<img width="100%" src="https://github-readme-activity-graph.vercel.app/graph?username=trung-devvon&theme=tokyo-night&bg_color=0d1117&color=00d9ff&line=7c3aed&point=bd94f4&hide_border=true" />
 
 </div>
 
@@ -166,15 +166,15 @@ location : Vietnam 🇻🇳
 <picture>
   <source
     media="(prefers-color-scheme: dark)"
-    srcset="https://raw.githubusercontent.com/trung-riddle/trung-riddle/output/github-contribution-grid-snake-dark.svg"
+    srcset="https://raw.githubusercontent.com/trung-devvon/trung-devvon/output/github-contribution-grid-snake-dark.svg"
   />
   <source
     media="(prefers-color-scheme: light)"
-    srcset="https://raw.githubusercontent.com/trung-riddle/trung-riddle/output/github-contribution-grid-snake.svg"
+    srcset="https://raw.githubusercontent.com/trung-devvon/trung-devvon/output/github-contribution-grid-snake.svg"
   />
   <img
     alt="🐍 Snake eating my GitHub contributions"
-    src="https://raw.githubusercontent.com/trung-riddle/trung-riddle/output/github-contribution-grid-snake-dark.svg"
+    src="https://raw.githubusercontent.com/trung-devvon/trung-devvon/output/github-contribution-grid-snake-dark.svg"
     width="95%"
   />
 </picture>
@@ -220,11 +220,11 @@ location : Vietnam 🇻🇳
 
 <div align="center">
 
-[![LinkedIn](https://img.shields.io/badge/LinkedIn-Trung_Dev-0077B5?style=for-the-badge&logo=linkedin&logoColor=white)](https://linkedin.com/in/trung-riddle)
+[![LinkedIn](https://img.shields.io/badge/LinkedIn-Trung_Dev-0077B5?style=for-the-badge&logo=linkedin&logoColor=white)](https://linkedin.com/in/trung-devvon)
 &nbsp;
 [![Facebook](https://img.shields.io/badge/Facebook-Trung_Riddle-1877F2?style=for-the-badge&logo=facebook&logoColor=white)](https://facebook.com/trung.riddle)
 &nbsp;
-[![GitHub](https://img.shields.io/badge/GitHub-@trung--riddle-181717?style=for-the-badge&logo=github&logoColor=white)](https://github.com/trung-riddle)
+[![GitHub](https://img.shields.io/badge/GitHub-@trung--devvon-181717?style=for-the-badge&logo=github&logoColor=white)](https://github.com/trung-devvon)
 
 <br/>
 
