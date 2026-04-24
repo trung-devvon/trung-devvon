@@ -6,7 +6,7 @@
 
 <br/>
 
-<img src="https://hits.seeyoufarm.com/api/count/incr/badge.svg?url=https%3A%2F%2Fgithub.com%2Ftrung-devvon&count_bg=%237c3aed&title_bg=%230d1117&icon=github&icon_color=%2300d9ff&title=Profile+Views&edge_flat=true" />
+<img src="https://komarev.com/ghpvc/?username=trung-devvon&color=7c3aed&style=flat-square&label=Profile+Views" />
 &nbsp;&nbsp;
 <img src="https://visitor-badge.laobi.icu/badge?page_id=trung-devvon.trung-devvon&left_color=0d1117&right_color=06b6d4&left_text=Total%20Visits" />
 &nbsp;&nbsp;
@@ -187,30 +187,15 @@ location : Vietnam 🇻🇳
 
 ---
 
-## 🎌 Anime Dev Wisdom
+## 🎲 Random Dev Joke — Refreshes Every Visit
 
 <div align="center">
 
-<img src="https://capsule-render.vercel.app/api?type=soft&color=gradient&customColorList=12,20&height=2&section=header" width="80%"/>
+<img src="https://readme-jokes.vercel.app/api?theme=dark&bgColor=%230d1117&borderColor=%237c3aed&qColor=%2300d9ff&aColor=%23bd94f4&codeColor=%23f59e0b&hideBorder=false" alt="Random Dev Joke" width="600" />
 
 <br/>
 
-> *「 A dropout will beat a genius through hard work. 」*
-> **— Rock Lee, Naruto 🍃**
-
-<br/>
-
-> *「 If you don't take risks, you can't create a future! 」*
-> **— Monkey D. Luffy, One Piece ☠️**
-
-<br/>
-
-> *「 A lesson without pain is meaningless. 」*
-> **— Edward Elric, Fullmetal Alchemist ⚗️**
-
-<br/>
-
-![Quote](https://img.shields.io/badge/Developer_Motto-Keep_shipping._The_code_never_lies.-7c3aed?style=for-the-badge&labelColor=0d1117)
+![Motto](https://img.shields.io/badge/Dev_Motto-Keep_shipping._The_code_never_lies_🚀-7c3aed?style=for-the-badge&labelColor=0d1117)
 
 </div>
 
