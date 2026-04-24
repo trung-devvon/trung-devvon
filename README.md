@@ -6,9 +6,9 @@
 
 <br/>
 
-<img src="https://komarev.com/ghpvc/?username=trung-riddle&label=👁️ Profile Views&color=7c3aed&style=flat-square&labelColor=0d1117" />
+<img src="https://hits.seeyoufarm.com/api/count/incr/badge.svg?url=https%3A%2F%2Fgithub.com%2Ftrung-riddle&count_bg=%237c3aed&title_bg=%230d1117&icon=github&icon_color=%2300d9ff&title=Profile+Views&edge_flat=true" />
 &nbsp;&nbsp;
-<img src="https://img.shields.io/github/followers/trung-riddle?label=★ Followers&style=flat-square&color=06b6d4&labelColor=0d1117" />
+<img src="https://img.shields.io/github/followers/trung-riddle?label=Followers&style=flat-square&color=06b6d4&labelColor=0d1117&logo=github&logoColor=white" />
 &nbsp;&nbsp;
 <img src="https://img.shields.io/badge/Status-Open%20to%20Work-00ff88?style=flat-square&labelColor=0d1117&logo=checkmarx&logoColor=00ff88" />
 
@@ -153,32 +153,11 @@ location : Vietnam 🇻🇳
 
 ---
 
-## 🐍 Swallowing My Contributions
+## 📅 Contribution Calendar
 
 <div align="center">
 
-<picture>
-  <source media="(prefers-color-scheme: dark)"
-    srcset="https://raw.githubusercontent.com/trung-riddle/trung-riddle/output/github-contribution-grid-snake-dark.svg" />
-  <source media="(prefers-color-scheme: light)"
-    srcset="https://raw.githubusercontent.com/trung-riddle/trung-riddle/output/github-contribution-grid-snake.svg" />
-  <img alt="contribution snake animation"
-    src="https://raw.githubusercontent.com/trung-riddle/trung-riddle/output/github-contribution-grid-snake-dark.svg" />
-</picture>
-
-> 🔔 *Snake animation appears after the GitHub Action runs for the first time — see setup guide below*
-
-<details>
-<summary>⚙️ Quick Setup (2 steps)</summary>
-<br/>
-
-**Step 1:** The file `.github/workflows/snake.yml` is already in this repo ✅
-
-**Step 2:** Go to your GitHub repo → **Actions** tab → Find **"🐍 Generate Snake"** → Click **"Run workflow"**
-
-The snake will appear here after the first run!
-
-</details>
+<img width="90%" src="https://ghchart.rshah.org/7c3aed/trung-riddle" alt="trung-riddle's contribution chart" />
 
 </div>
 
